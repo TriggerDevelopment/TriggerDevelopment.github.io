@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.956fad23.chunk.css",
+    "main.js": "/static/js/main.d8b5e32b.chunk.js",
+    "main.js.map": "/static/js/main.d8b5e32b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.554504a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
+    "static/js/2.bd2b4a3e.chunk.js": "/static/js/2.bd2b4a3e.chunk.js",
+    "static/js/2.bd2b4a3e.chunk.js.map": "/static/js/2.bd2b4a3e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4eb98436bb3abc023881e3be16236085.js": "/precache-manifest.4eb98436bb3abc023881e3be16236085.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.956fad23.chunk.css.map": "/static/css/main.956fad23.chunk.css.map",
+    "static/js/2.bd2b4a3e.chunk.js.LICENSE.txt": "/static/js/2.bd2b4a3e.chunk.js.LICENSE.txt",
+    "static/media/hashirshoaeb.png": "/static/media/hashirshoaeb.32f6b574.png",
+    "static/media/resume.pdf": "/static/media/resume.9d3da0e2.pdf",
+    "static/media/samueltrigger.jpg": "/static/media/samueltrigger.4abb332c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.554504a0.js",
+    "static/js/2.bd2b4a3e.chunk.js",
+    "static/css/main.956fad23.chunk.css",
+    "static/js/main.d8b5e32b.chunk.js"
+  ]
+}
